@@ -5,13 +5,6 @@
 #include <vector>
 #include <math.h> 
 
-/*
-
-	g++ project.cpp -o project `pkg-config --cflags --libs opencv`
-	,/project
-
-*/
-
 using namespace cv;
 using namespace std;
 
